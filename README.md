@@ -80,12 +80,12 @@ The portfolio is deployed and accessible at: [GitHub Pages Link]
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Govind440/portfolio.git
+git clone https://github.com/Govind440/Portfolio.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd portfolio
+cd Portfolio
 ```
 
 3. Open `index.html` in your web browser or serve it using a local server:
@@ -103,7 +103,7 @@ php -S localhost:8000
 ## 📁 Project Structure
 
 ```
-portfolio/
+Portfolio/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS styles and animations
 ├── script.js           # JavaScript functionality
